@@ -1,0 +1,4 @@
+﻿  Keyboard.cpp
+C:\Users\fanfr\source\repos\KeyboardHookAPI\KeyboardHookAPI\Keyboard.cpp(256,9): warning C4101: 'lpBuf': unreferenced local variable
+C:\Users\fanfr\source\repos\KeyboardHookAPI\KeyboardHookAPI\Keyboard.cpp(246): warning C4715: 'Keycodes': not all control paths return a value
+  KeyboardHookAPI.vcxproj -> C:\Users\fanfr\source\repos\KeyboardHookAPI\Debug\KeyboardHookAPI.exe
